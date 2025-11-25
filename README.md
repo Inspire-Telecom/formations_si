@@ -22,3 +22,12 @@ Chaque formation se trouve ensuite dans un dossier à part. Vous y trouverez un 
 Les formations ne sont pas interdépendantes, à l'exception de la formation Javascript qui est conseillée pour suivre les formations JS suivantes, vous pouvez donc les faire dans l'ordre que vous voulez.
 
 Bon courage !
+
+## ** Optionnel **
+
+Si vous avez terminé la formation et que vous souhaitez approfondir vos connaissances, vous pouvez :
+- Effectuer la formation Google Workspace sur ce lien : https://www.skills.google/paths/24
+- Découvrir Apps Script
+- Installer Docker et lancer votre premier container Docker
+
+**Note** : Cette catégorie (optionnel) ne sera pas pris en considération pour l'oral de DSI.
