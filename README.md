@@ -25,8 +25,8 @@ Bon courage !
 
 ## ** Optionnel **
 
-Si vous avez terminé la formation et que vous souhaitez approfondir vos connaissances, vous pouvez :
-- Effectuer la formation Google Workspace sur ce lien : https://www.skills.google/paths/24
+Si vous avez terminé les exercices et que vous souhaitez approfondir vos connaissances, vous pouvez :
+- Effectuer la formation Google Workspace en passant par ce lien : https://www.skills.google/paths/24
 - Découvrir Apps Script
 - Installer Docker et lancer votre premier container Docker
 
